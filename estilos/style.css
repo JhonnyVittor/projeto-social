@@ -19,7 +19,6 @@ main{
     position: relative;
     height: 100vw;
     
-    
 }
 #telefone{
     position: absolute;
@@ -28,8 +27,15 @@ main{
     transform: translate(-50%, -50%);
     height: 627px;
     width: 310px;
-    
     background:  url(../imagens/frame-iphone.png) no-repeat;
+    
 
 }
 
+#tela{
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 269px;
+    height: 471;
+}
